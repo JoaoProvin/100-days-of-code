@@ -9,7 +9,7 @@
 - Estudo para se familiarizar com versionamento Git;
 - Criação do index.html do site;
 - Teste de alguns elementos e atributos HTML;
-- Definição de elementos CSS a serem definidos.
+- Definição de elementos CSS a serem trabalhados.
 
 **Info**:
 - Referência para comandos básicos do Git: http://rogerdudler.github.io/git-guide/
