@@ -1,20 +1,17 @@
 # 100 Days Of Code - Log
 
 **Link to work:**
-[project](https://github.com/vturrisi/pytorch-journey)
+[project](https://github.com/JoaoProvin/site-portfolio)
 
 ### Day 1: Jan 22, 2018
 
 **Today's Progress**:
-- Created a base project to start learning pytorch
-- Forward and backwardprop by 'hand' using pytorch
+- Estudo para se familiarizar com versionamento Git;
+- Criação do index.html do site;
+- Teste de alguns elementos e atributos HTML;
+- Definição de elementos CSS a serem definidos.
 
 **Info**:
-- Computed loss by hand so that pytorch can perform auto derivative
-
-### Day 2: Jan 23, 2018
-
-**Today's Progress**:
-- Grads are now updating
-- Needs to fix loss function/optimiser (no grads...)
-
+- Referência para comandos básicos do Git: http://rogerdudler.github.io/git-guide/
+- Referência para habilitar UTF-8 no site: https://www.w3.org/International/questions/qa-html-encoding-declarations
+- Estudo básico sobre CSS Tricks: https://css-tricks.com/snippets/css/complete-guide-grid/
