@@ -25,3 +25,9 @@
 
 **Info**:
 - Referência para construção da CSS Grid: https://medium.com/deemaze-software/css-grid-layout-crossed-sections-fca9e956e725
+
+### Day 3: Jan 24, 2019
+
+**Today's Progress**:
+- Animação nos botões de navegação (header);
+- Testes com CSS grid para criar hierarquia organizada;
