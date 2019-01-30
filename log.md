@@ -31,3 +31,10 @@
 **Today's Progress**:
 - Animação nos botões de navegação (header);
 - Testes com CSS grid para criar hierarquia organizada;
+
+
+### Day 4: Jan 29, 2019
+
+**Today's Progress**:
+- Ainda experimentando com as CSS Grids;
+- Pesquisa por extensões e métodos de visualizar o site no VSCode em live preview.
