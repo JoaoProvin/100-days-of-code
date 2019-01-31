@@ -38,3 +38,10 @@
 **Today's Progress**:
 - Ainda experimentando com as CSS Grids;
 - Pesquisa por extensões e métodos de visualizar o site no VSCode em live preview.
+
+### Day 5: Jan 30, 2019
+
+**Today's Progress**:
+- Aprendendo Flexbox e Grid com "minigames" didáticos :D
+-- Flexbox: https://flexboxfroggy.com/
+-- Grid: http://cssgridgarden.com/
