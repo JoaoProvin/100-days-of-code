@@ -45,3 +45,9 @@
 - Aprendendo Flexbox e Grid com "minigames" didáticos :D
 -- Flexbox: https://flexboxfroggy.com/
 -- Grid: http://cssgridgarden.com/
+
+
+### Day 6: Jan 31, 2019
+
+**Today's Progress**:
+- Integração de Flexbox em elementos da página.
